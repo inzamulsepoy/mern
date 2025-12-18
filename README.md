@@ -1,9 +1,9 @@
-```md
+
 # React Form with Node.js & MongoDB
 
 A simple full-stack web application that allows users to submit their **name** and **email** through a React form, stores the data in **MongoDB**, and provides success/error notifications. Built with **React**, **Axios**, **Node.js**, **Express**, and **MongoDB**.
 
----
+
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple full-stack web application that allows users to submit their **name** a
 - CORS enabled to allow communication between frontend and backend
 - Success and error alerts for better UX
 
----
+
 
 ## Technologies Used
 

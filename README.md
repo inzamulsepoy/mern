@@ -104,6 +104,3 @@ http://localhost:3000
 
 This project is open source and free to use.
 
-
-Do you want me to do that?
-```

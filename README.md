@@ -94,12 +94,6 @@ http://localhost:3000
 
 ---
 
-## Screenshots
-
-*(Add screenshots of the form and alerts here for better visual understanding)*
-
----
-
 ## License
 
 This project is open source and free to use.
